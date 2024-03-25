@@ -25,10 +25,6 @@ DB_DATABASE={nombreDB}
 DB_USERNAME={nombreUsuario}
 DB_PASSWORD={passwordUsuario}
 ```
-Agregar esta variable en .env
-```
-ENTRIES_URL=https://api.publicapis.org/entries
-```
 Generar Laravel App Key
 ```
 php artisan key:generate
